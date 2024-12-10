@@ -1,11 +1,4 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# LAB | React Training
-
-<details>
-  <summary>
-   <h2>Learning Goals</h2>
-  </summary>
 
   This exercise allows you to practice and apply the concepts and techniques taught in class. 
 
@@ -43,25 +36,9 @@ $ cd lab-react-training
 $ npm install
 $ npm start
 ```
-
-## Submission
-
-- Upon completion, run the following commands:
-
-  ```
-  git add .
-  git commit -m "done"
-  git push origin master
-  ```
-
-- Create a Pull Request so that your TAs can review your work.
-
   
 
 ## Instructions
-
-
-
 ### Iteration 0 | Components folder
 
 Inside of the `src/` folder, create a new folder named `components`. 
