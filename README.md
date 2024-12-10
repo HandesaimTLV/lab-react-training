@@ -26,16 +26,6 @@ The purpose of this exercise is to practice the core React concepts such as: cre
 
 To see the expected result for each iteration, refer to the solution example: [**React Training - solution**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
-## Setup
-
-- Fork this repo
-- Clone this repo
-
-```shell
-$ cd lab-react-training
-$ npm install
-$ npm start
-```
   
 
 ## Instructions
